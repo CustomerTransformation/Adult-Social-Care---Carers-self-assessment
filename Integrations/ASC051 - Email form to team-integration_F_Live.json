@@ -1,0 +1,16 @@
+[
+    {
+        "ID": "5d359caa866de",
+        "Name": "ASC051 - Email form to team",
+        "Type": "EMAIL",
+        "LIM_id": "83ef69d1-2c5e-11e5-ad20-22000a7a05f5",
+        "Editable": true,
+        "LIM_name": "Portsmouth",
+        "Category": "Social Care",
+        "data_type": "integration",
+        "allow_offline": 0,
+        "Output_template": "{\"subject\":\"Submission of Carers self assessment\",\"fromName\":\"{NoReplyEmail_N}\",\"from\":\"{NoReplyEmail}\",\"recipients_to\":\"{email_carers}\",\"recipients_cc\":\"\",\"recipients_bcc\":\"\",\"pdf_attachments\":\"5d359b7d54d29\",\"body\":\"<p>Please find attached carers assessment submitted by online form.</p>\\n\\n<p>Automated Email</p>\\n\\n<p>Online forms</p>\\n\\n<p>Portsmouth City Council</p>\",\"attachments\":\"\"}",
+        "log_only_on_error": 0,
+        "error_notification": "{\"LIM_id\":\"3f07ecf4-0dfa-11e2-b0b9-12313b03ed59\",\"LIM_name\":\"LIM14\",\"recipients_to\":\"daniel.gregory@portsmouthcc.gov.uk\"}"
+    }
+]
